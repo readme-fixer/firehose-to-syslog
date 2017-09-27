@@ -40,7 +40,7 @@ Flags:
   --version           Show application version.
 ```
 
-#Endpoint definition
+# Endpoint definition
 
 We use [gocf-client](https://github.com/cloudfoundry-community/go-cfclient) which will call the CF endpoint /v2/info to get Auth., doppler endpoint.
 
